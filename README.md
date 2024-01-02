@@ -1,5 +1,13 @@
 # Sportify
-Sportify is a mobile application that allows users to discover and engage with various sports-related activities. Here are the current features of the application:
+
+Sportify is Sport App Startup that simplifies the process of organizing and joining sports activities. With Sportify, users can:
+
+- Choose their favorite sports.
+- Schedule when and where they want to play.
+- Discover available sports venues and spots within 3D-modeled sports places.
+- Connect with other users and teams looking for players.
+
+Here are the current features of the application:
 
 - **Sport Selection**: Users can choose their favorite sports and mark them as favorites.
 
