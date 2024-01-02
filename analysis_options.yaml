@@ -1,0 +1,4 @@
+include: package:pedantic/analysis_options.yaml
+
+# Your project-specific analysis options can go here if needed.
+
