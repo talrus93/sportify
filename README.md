@@ -1,17 +1,36 @@
-# sportify
-Sportify is a  sports companion app that helps users find sports partners, discover free sports places and spots, and connect with teams seeking new members.For now it is prototype of app. It is developed page where user can select a sport that he is interested and make it favourite and the page where he can choose a country, city and region. For that it was used standart flutter package csc_picker.These are pages that already developed:
-![sportify_main_page](https://github.com/talrus93/sportify/assets/82262969/482cbd39-91a1-4959-b78f-282a9b351c39)
-![select_city_page](https://github.com/talrus93/sportify/assets/82262969/3e677b22-5ace-44af-9f0d-8eec03c7722d)
+# Sportify
+Sportify is a mobile application that allows users to discover and engage with various sports-related activities. Here are the current features of the application:
+
+- **Sport Selection**: Users can choose their favorite sports and mark them as favorites.
+
+- **Location Selection**: Users can select a country, city, and region to customize their sports experience.
+
+I have already developed the following pages:
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/talrus93/sportify/assets/82262969/482cbd39-91a1-4959-b78f-282a9b351c39" alt="main page" height="500">
+    <img src="https://github.com/talrus93/sportify/assets/82262969/3e677b22-5ace-44af-9f0d-8eec03c7722d" alt="select city page" height="500">
+</div>
 
 
-It is planned to develop:
-1. user will choose a date and time when he wants to play
-2. Creating a database for an application
-3.Sport places that available in selected city
-4. Displaying a person or a team who is looking for a partner and a free spot in selected sport place
+### Planned Development:
 
-Here some prototype of pages that are planned to develop:
+ Features and Pages planned for future development:
 
- ![basketball_page](https://github.com/talrus93/sportify/assets/82262969/50e8e943-eed7-49f7-b8a4-d460ba84f1c6)
- 
+1. **Schedule Sports Activities**: Users will be able to select a date and time for their sports activities.
 
+2. **Database Integration**: We will create a database to enhance the application's functionality and user experience.
+
+3. **Sports Venue Information**: Users can access information about sports venues available in their selected city.
+
+4. **Find Partners and Free Spots**: Users can discover individuals or teams looking for partners and available spots in their selected sports venue.
+
+### Prototype Pages:
+
+Here are some prototype pages that we plan to develop:
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/talrus93/sportify/assets/82262969/50e8e943-eed7-49f7-b8a4-d460ba84f1c6" alt="basketball page" width="450" height="500">
+    <img src="https://github.com/talrus93/sportify/assets/82262969/7e21eae2-3ce3-4cc9-8c19-369d5b2eed2d" alt="football page" width="450" height="500">
+    <img src="https://github.com/talrus93/sportify/assets/82262969/2cfaa427-ddf8-4a90-9592-bc6df3c6a1a0" alt="tennis page" width="450" height="500"> 
+</div>
